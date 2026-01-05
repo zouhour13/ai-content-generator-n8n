@@ -66,7 +66,8 @@ This project is built using **n8n**, a workflow automation tool, and leverages A
 
    ```bash
    TAVILY_API_KEY=your_tavily_api_key
-OPENAI_API_KEY=your_openai_api_key
+   OPENAI_API_KEY=your_openai_api_key```
+
 
 3. **Install n8n (if not installed)**
    ```bash
