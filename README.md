@@ -82,8 +82,19 @@ Click Execute workflow to start.
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/P_ZZyWOBo1Q))
+Découvrez une démonstration complète du projet dans la vidéo ci-dessous :
 
+<p align="center">
+  <a href="https://youtu.be/P_ZZyWOBo1Q" target="_blank">
+    <img src="https://img.youtube.com/vi/P_ZZyWOBo1Q/maxresdefault.jpg" 
+         alt="Demo Video" 
+         width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <strong><a href="https://youtu.be/P_ZZyWOBo1Q" target="_blank">Watch the demo on YouTube</a></strong>
+</p>
 
 ## Security Notes
 
