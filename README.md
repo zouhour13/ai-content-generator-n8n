@@ -82,7 +82,8 @@ Click Execute workflow to start.
 
 ## 🎥 Demo Video
 
-Découvrez une démonstration complète du projet dans la vidéo ci-dessous :
+Discover a complete demonstration of the project in the video below:
+
 
 <p align="center">
   <a href="https://youtu.be/P_ZZyWOBo1Q" target="_blank">
