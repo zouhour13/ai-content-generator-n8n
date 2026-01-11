@@ -79,6 +79,12 @@ This project is built using **n8n**, a workflow automation tool, and leverages A
 
 Click Execute workflow to start.  
 
+
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/P_ZZyWOBo1Q))
+
+
 ## Security Notes
 
 - **Secrets Management:** All API keys are stored in a `.env` file and **never committed to GitHub**.  
